@@ -1,0 +1,302 @@
+.mt-50{
+	margin-top:50px !important;
+}
+
+.mt-60{
+	margin-top:60px !important;
+}
+
+.mb-50{
+	margin-bottom:50px !important;
+}
+
+.h-50{
+	height:50px !important;
+}
+
+.index-main img{
+	width:100%;
+}
+
+.button-theme{
+	display:inline-block;
+	background-color:#FDA12B;
+	margin-top:15px;
+	color:#fff;
+	padding:10px 15px;
+}
+
+.button-theme:hover{
+	color:#fff !important;
+	background-color:#fe8f00; 
+	transform:scale(1.1,1.1);
+	-ms-transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+}
+
+#our-services{
+	text-align:center;
+}
+#our-services h2{
+	font-weight:600;
+	margin-bottom:100px;
+	text-transform:uppercase;
+}
+
+#roof-covering{
+	background-color:#F8F9FA;
+}
+
+#roof-covering .content-container{
+	margin:auto;
+	background-color:#fff;
+}
+
+
+#roof_reparing .img-container img{
+	width:100%;
+	display:inline-block;
+	margin-top:10px;
+}
+
+
+#about-gallery img{
+	width:100%;
+	height:220px;
+}
+
+
+
+#about-gallery img:hover{
+	transform: scale(1.1,1.1);
+	-webkit-transform: scale(1.1,1.1);
+	-ms-transform: scale(1.1,1.1);
+}
+
+
+img.image-w-100{
+	width:100%;
+}
+
+.about-footer-image{
+	width:70%;
+	transform: translateX(50px);
+	-ms-transform: translateX(50px);
+	-webkit-transform: translateX(50px);
+}
+
+
+.precision-image img{
+	transform: scale(1,0.9);
+	margin-top:15px;
+}
+
+.scale-another{
+	margin-top:15px;
+	transform:scale(1,1.1) !important;
+}
+
+
+
+#mobile-fix-bottom .fixed{
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	background-color: #3c3b3a;
+	width:100%;
+	text-align: center;
+	padding:6px;
+	display:none;
+	z-index:1000;
+}
+
+#mobile-fix-bottom a{
+	color:#fff;
+	display:inline-block;
+
+}
+
+#mobile-fix-bottom span{
+	font-weight:600;
+	background-color:#fff;
+	display:inline-block;
+	color:#0105ff;
+	padding:4px 17px;
+}
+
+@media(max-width:500px){
+	#mobile-fix-bottom .fixed{
+		display:block;
+	}
+}
+
+
+
+.site-icon{
+	font-size:20px;
+	color:#FDA12B !important;
+	padding:12px 20px;
+	border:2px solid #FDA12B;
+}
+
+.site-icon:hover{
+	transform: scale(1.1,1.1) !important;
+	-webkit-transform: scale(1.1,1.1) !important;
+	-ms-transform: scale(1.1,1.1) !important;
+}
+
+
+#menu-footer-services .active a {
+	color:#FDA12B !important;
+}
+
+.footer-img{
+	width:100%;
+}
+
+
+.fa-arrow-circle-right{
+	transform: translateY(8px);
+	-webkit-transform: translateY(8px);
+	-ms-transform: translateY(8px);
+}
+
+
+
+#thanks{
+	text-align:center !important;
+	min-height:300px !important;
+}
+
+#thanks div{
+	width:75% !important;
+	margin:auto !important;
+	margin-top:200px !important;
+}
+
+#thanks h2{
+	font-weight:800 !important;
+	background:#FDA12B !important;
+	padding:15px !important;
+}
+
+@media(max-width:500px){
+	#thanks h2{
+		font-size:24px;
+	}
+}
+
+
+.img-section img{
+	width:100%;
+}
+
+strong.bloom{
+	font-weight: 700;
+	font-size: 17px;
+	color:#070707;
+	opacity: 0.8;
+}
+
+.site-main{
+	padding-top:75px !important;
+}
+
+.ttm-menu-toggle-block{
+	color:#FDA12B !important;
+}
+
+.push-top-first{
+	transform: translateY(-70px);
+	-ms-transform: translateY(-70px);
+	-webkit-transform: translateY(-70px);
+}
+
+
+
+.top-section{
+	padding-top:30px !important;
+	padding-bottom:22px !important;
+}
+
+/*  a CSS a minden oldali fő akárminek. */
+.ttm-page-title-row{
+	background:#182333;
+}
+
+
+.services2-section img{
+	width:100%;
+}
+
+
+.section-services-covering h5{
+	margin-top:20px;
+	margin-bottom:0px;
+}
+
+.section-services-covering strong.bloom{
+	font-size:14px !important;
+}
+
+
+#customer-slider-container img{
+	width:100%;
+	height:auto;
+}
+
+
+#customer-slider-container .featured-icon-box.style4{
+  	box-shadow: 0px 2px 5px #182434;
+  	padding-bottom:5px;
+}
+
+
+#customer-slider-container .owl-stage{
+	padding:5px;
+}
+
+
+
+#services-container .row{
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+#services-container h4{
+	text-transform: uppercase;
+	font-weight:800;
+}
+
+#services-container{
+
+	padding-top:50px !important;
+	padding-bottom:50px !important;
+}
+
+
+
+#contact-section input[type=text],#contact-section input[type=email],#contact-section textarea{
+	/*background-color:#F8F9FA;
+	border-bottom:1px solid #182434;*/
+	border-bottom:2px solid #FDA12B;
+}
+
+
+#contact-section input:focus,#contact-section textarea:focus{
+	border-bottom:1px solid #182434 !important;
+}
+
+
+.contact_by_phone{
+	margin-top:55px; 
+}	
+
+.contact_by_phone .button-theme{
+	margin-top:0px !important;
+	background-color: #182434 !important;
+}
+
+.contact_by_phone .button-theme:hover{
+	background-color:#FDA12B !important;
+}
